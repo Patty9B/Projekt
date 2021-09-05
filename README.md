@@ -22,4 +22,4 @@ Git & GitHub E-learning project by RedKnife Studio sp. z o.o. for Akademia Odoo 
 3. Use **git pull origin *branch_name*** in order to download and replace any changes
 
 ###
-Last changes made on **01.09.2021r.** by *Bartosz Baranski*
+Last changes made on **05.09.2021r.** by *Bartosz Baranski*
